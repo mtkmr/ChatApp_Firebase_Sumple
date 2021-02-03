@@ -1,0 +1,6 @@
+framework module Pods_ChatApp_Firebase_Sumple {
+  umbrella header "Pods-ChatApp_Firebase_Sumple-umbrella.h"
+
+  export *
+  module * { export * }
+}
